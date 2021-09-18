@@ -1,0 +1,16 @@
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\SharpFileWorker.exe
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\SharpFileWorker.deps.json
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\SharpFileWorker.runtimeconfig.json
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\SharpFileWorker.runtimeconfig.dev.json
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\SharpFileWorker.dll
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\SharpFileWorker.pdb
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\CommandLine.dll
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.csprojAssemblyReference.cache
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.AssemblyInfoInputs.cache
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.AssemblyInfo.cs
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.csproj.CoreCompileInputs.cache
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.csproj.CopyComplete
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.dll
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.pdb
+K:\Course\Programs\SharpFileWorker\obj\Debug\netcoreapp3.1\SharpFileWorker.genruntimeconfig.cache
+K:\Course\Programs\SharpFileWorker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
